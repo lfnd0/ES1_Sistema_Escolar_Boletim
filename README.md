@@ -34,7 +34,6 @@ O ``Menu Principal`` do SEB aparecerá para você com as seguintes opções:
  * ``1 - Administrador``
  * ``2 - Aluno``
  * ``3 - Professor``
- * ``4 - Sair``
 
  Escolha o perfil ``1 - Administador`` digitando ``1``. Nos campos de login e senha insira "es1". Agora, a partir do acesso a este usuário, usufrua das funcionalidades implementadas para o administrador e consequentemente aos demais usuários.
 
