@@ -16,7 +16,7 @@ Para testar/utilizar a aplicação em um dispositivo desktop, será necessária 
 
 **ATENÇÃO: para executar os testes do sistema recomenda-se que nenhuma alteração tenha sido realizada no arquivo ``seb.sql``, afim de que os casos de testes gerados sejam executados corretamente. Após executá-los, realize novamente a importação do banco de dados.**
 
-Após a instalação e configuração das ferramentas citadas anteriormente, crie um usuário e uma conexão no MySQL com ``nome``, ``login`` e ``senha`` "es1", adicione ao mesmo todos os privilégios de usuário. Ao finizar essa tarefa, realize a importação do banco de dados do SEB a partir do arquivo ``sebDB.sql`` no diretório ``database`` do projeto.
+Após a instalação e configuração das ferramentas citadas anteriormente, crie um usuário e uma conexão no MySQL com ``nome``, ``login`` e ``senha`` "es1", adicione ao mesmo todos os privilégios de usuário. Ao finizar essa tarefa, realize a importação do banco de dados do SEB a partir do arquivo ``seb.sql`` no diretório ``database`` do projeto.
 
 Para a execução dos casos de testes do SEB, certifique-se de ter adicionado o projeto no ``Eclipse IDE``. Após este passo, execute os testes com o ``JUnit Framework``.
 
