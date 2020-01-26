@@ -39,6 +39,8 @@ O ``Menu Principal`` do SEB aparecerá para você com as seguintes opções:
 
 # Time de desenvolvimento
 
-  * [Danillo Rodrigues Abreu](https://github.com/danilo100kl)
-  * [João Marcos Oliveira Farias](https://github.com/JoaoMarcoss)
-  * [Luiz Fernando da Silva](https://github.com/lfnd0)
+  ## Time de desenvolvimento
+
+  * [Danillo Rodrigues](https://github.com/danillobr)
+  * [João Marcos](https://github.com/joaomarcoos)
+  * [Luiz Fernando](https://github.com/lfnd0)
